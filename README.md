@@ -11,3 +11,10 @@ A short description about the repository.
 *My italics text for Task 6*
 ***My bold and italics text for Task 6***
 ~My stricken through text for Task 6~
+
+`git status`
+
+- [ ] task list item 1
+- [ ] task list item 2
+- [x] completed task list item
+- [ ] task list item 3
